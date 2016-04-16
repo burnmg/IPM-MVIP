@@ -1,0 +1,1 @@
+print 'in %d tests, the program succeeded %d times' % (3, 6)
