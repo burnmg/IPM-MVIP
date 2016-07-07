@@ -1,4 +1,5 @@
 ## IPM-MVIP
+### Software Author: Ruolin Jia © RIGHTS RESERVED
 The program is used by rate-based process model to induce unobservable variables. 
 
 ## Rate-based process model
